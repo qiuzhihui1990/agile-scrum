@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="agile-lender_main" target="1.8" />
+      <module name="agile-lender_test" target="1.8" />
+      <module name="agile-scrum_main" target="1.8" />
+      <module name="agile-scrum_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
