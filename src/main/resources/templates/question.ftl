@@ -75,7 +75,7 @@
     </form>
 
     <footer class="published text-center">
-        <a target="_blank" class="powered-by " href="https://www.dianrong.com" style="opacity: 1;">
+        <a target="_blank" class="powered-by " href="https://www.baidu.com" style="opacity: 1;">
             <p>
                 <span>Powered by </span>
                 <i class="gd-icon-logo powered-logo"></i><span> Backend Lender, Thanks for UX</span>

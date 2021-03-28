@@ -4,7 +4,7 @@ buildscript {
   }
 
   repositories {
-    maven { url 'http://nexus.dianrong.com/nexus/content/groups/public/' }
+    maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
   }
 
   dependencies {
@@ -25,7 +25,7 @@ task wrapper(type: Wrapper) {
 }
 
 repositories {
-  maven { url 'http://nexus.dianrong.com/nexus/content/groups/public/' }
+  maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
 }
 
 dependencies {
